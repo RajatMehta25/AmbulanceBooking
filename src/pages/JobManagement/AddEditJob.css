@@ -1,0 +1,38 @@
+/* .datetime{
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid #ccc;
+} */
+
+.react-datetime-picker__wrapper{
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid #ccc;
+}
+.react-date-picker__wrapper{
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid #ccc;
+}
+
+.react-time-picker__wrapper{
+    border-radius: 5px;
+    height: 35px;
+    border: 1px solid #ccc;
+}
+
+/* .custombutton:focus{
+    background-color: #e9e9e9 !important;
+    color: #2765B3 !important;
+} */
+
+.colorTheButton{
+    background-color: #2765B3 !important;
+    color: #fff !important;
+    /* border-radius: 100px !important; */
+}
+.defaultButtonColor{
+    background-color: #e9e9e9 !important;
+    color: #2765B3 !important;
+    /* border-radius: 100px !important; */
+}

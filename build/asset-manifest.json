@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/adminPanel/static/css/main.0fd11936.chunk.css",
+    "main.js": "/adminPanel/static/js/main.cd4f9561.chunk.js",
+    "main.js.map": "/adminPanel/static/js/main.cd4f9561.chunk.js.map",
+    "runtime-main.js": "/adminPanel/static/js/runtime-main.ca0b951f.js",
+    "runtime-main.js.map": "/adminPanel/static/js/runtime-main.ca0b951f.js.map",
+    "static/css/2.226cbf2b.chunk.css": "/adminPanel/static/css/2.226cbf2b.chunk.css",
+    "static/js/2.560b9a20.chunk.js": "/adminPanel/static/js/2.560b9a20.chunk.js",
+    "static/js/2.560b9a20.chunk.js.map": "/adminPanel/static/js/2.560b9a20.chunk.js.map",
+    "index.html": "/adminPanel/index.html",
+    "precache-manifest.955015850ad1601548fceb5422da04b5.js": "/adminPanel/precache-manifest.955015850ad1601548fceb5422da04b5.js",
+    "service-worker.js": "/adminPanel/service-worker.js",
+    "static/css/2.226cbf2b.chunk.css.map": "/adminPanel/static/css/2.226cbf2b.chunk.css.map",
+    "static/css/main.0fd11936.chunk.css.map": "/adminPanel/static/css/main.0fd11936.chunk.css.map",
+    "static/js/2.560b9a20.chunk.js.LICENSE.txt": "/adminPanel/static/js/2.560b9a20.chunk.js.LICENSE.txt",
+    "static/media/ambulance.png": "/adminPanel/static/media/ambulance.ffccc863.png",
+    "static/media/theme.scss": "/adminPanel/static/media/remixicon.dc0fb3e9.eot",
+    "static/media/avatar-2.jpg": "/adminPanel/static/media/avatar-2.02aea0c2.jpg",
+    "static/media/logo.png": "/adminPanel/static/media/logo.e674fe97.png",
+    "static/media/logolight.png": "/adminPanel/static/media/logolight.da4f2d3c.png",
+    "static/media/megamenu-img.png": "/adminPanel/static/media/megamenu-img.913183e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca0b951f.js",
+    "static/css/2.226cbf2b.chunk.css",
+    "static/js/2.560b9a20.chunk.js",
+    "static/css/main.0fd11936.chunk.css",
+    "static/js/main.cd4f9561.chunk.js"
+  ]
+}
